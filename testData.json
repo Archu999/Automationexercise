@@ -1,0 +1,9 @@
+{
+    "global": {
+        "valtext": "test"
+    },
+    "credential":
+    {
+        "user1" :{"username": "testingrocks99@gmail.com","password": "Policy@123"}
+    }
+}
